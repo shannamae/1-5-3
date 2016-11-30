@@ -1,0 +1,51 @@
+.background {
+	background: url(/images/outerspace_landscape.jpeg);
+	background-size: cover;
+	min-height: 0px;
+}
+
+main {
+	padding-top: 90px;
+	min-width: 1000px;
+}
+
+nav {
+	height: 50px;
+	position: fixed;
+	background-color: gray;
+	width: 100%;
+}
+
+nav .icon-img {
+	height: 50px;
+	border-radius: 50%;
+	vertical-align: left;
+}
+
+nav li {
+	display: inline-block;
+	vertical-align: top;
+}
+
+.logo {
+	border-radius: 50%;
+	position: relative;
+	height: 50px;
+	width: 50px;
+}
+
+.boxp {
+	border-style: 10px green dotted;
+	size: 200px 200px;
+}
+
+.dog, .cat {
+	size: 200px 200px;
+}
+
+.dog {
+
+}
+.cat {
+
+}
